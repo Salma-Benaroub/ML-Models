@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ## Usage
 
 1. **Task 1: Movie Genre Classification**
-   - Navigate to the `movie_genre_classification/` directory and run the classification script of the .ipynb file `model.ipynb`
+   - Navigate to the `Genre Classification Dataset/` directory and run the classification script of the .ipynb file `model.ipynb`
    
 2. **Task 2: Credit Card Fraud Detection**
    - Go to the `fraud_detection/` directory and use the provided dataset to run the model.
